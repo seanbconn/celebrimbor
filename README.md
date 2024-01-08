@@ -8,4 +8,5 @@
 
 # Welcome to ENTR-451
 
-This is an example of a GitHub repository.
+Line 11 removed. 
+New digs, new skills. 
